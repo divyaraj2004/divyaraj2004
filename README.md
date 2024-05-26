@@ -1,15 +1,8 @@
 ## Hi there 👋
 
-<!--
-**divyaraj2004/divyaraj2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on Web Development related projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: divyaraj.work2004@gmail.com
+- 😄 Pronouns: Developer_divyaraj
+
+
